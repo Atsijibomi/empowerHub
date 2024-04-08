@@ -25,7 +25,7 @@ Features to be Implemented for EmpowerHub Platform
 Running Locally
 Clone the repository
 
-git clone https://github.com/glenmiracle18/empower-hub.git
+git clone https://github.com/Atsijibomi/empowerHub.git
 Install dependencies using pnpm
 
 npm install
